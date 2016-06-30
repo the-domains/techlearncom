@@ -1,0 +1,14 @@
+layout_spectrum: 0.6139624936040491
+typography_spectrum: 0.7104416957590729
+color:
+  brandStrength: 0.2932076887227595
+  lightness: 0.5487535893917084
+  saturation: 0.07617906806990504
+  rhythmicContrast: 0.5298833851702511
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Techlearn.com
